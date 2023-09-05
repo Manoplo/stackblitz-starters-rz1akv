@@ -1,0 +1,15 @@
+h1,
+p {
+  font-family: Lato;
+}
+
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 1rem;
+}
+
+.active {
+  border-bottom: 2px solid black;
+}
